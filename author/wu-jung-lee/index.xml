@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wu-Jung Lee | Echospace @ UW</title><link>https://uw-echospace.github.io/author/wu-jung-lee/</link><atom:link href="https://uw-echospace.github.io/author/wu-jung-lee/index.xml" rel="self" type="application/rss+xml"/><description>Wu-Jung Lee</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><image><url>https://uw-echospace.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_2.png</url><title>Wu-Jung Lee</title><link>https://uw-echospace.github.io/author/wu-jung-lee/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wu-Jung Lee | Echospace @ UW</title><link>https://uw-echospace.github.io/author/wu-jung-lee/</link><atom:link href="https://uw-echospace.github.io/author/wu-jung-lee/index.xml" rel="self" type="application/rss+xml"/><description>Wu-Jung Lee</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 14:50:00 -0800</lastBuildDate><image><url>https://uw-echospace.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_2.png</url><title>Wu-Jung Lee</title><link>https://uw-echospace.github.io/author/wu-jung-lee/</link></image><item><title>Echopype</title><link>https://uw-echospace.github.io/software/echopype/</link><pubDate>Sun, 01 Nov 2020 14:50:00 -0800</pubDate><guid>https://uw-echospace.github.io/software/echopype/</guid><description>&lt;p>&lt;strong>&lt;code>Echopype&lt;/code>&lt;/strong> is an open-source Python package aimed at
+&lt;a href="https://echopype.readthedocs.io/en/latest/why.html" target="_blank" rel="noopener">enhancing the interoperability and scalability&lt;/a>
+in processing ocean sonar data for biological information.&lt;/p>
+&lt;p>I started building this package in early 2018 when I couldn&amp;rsquo;t find an affordable tool that
+allow easy access and manipulation of echosounder data collected by
+different sonar models.&lt;/p>
+&lt;p>For the latest updates, check out our repo at: &lt;a href="https://github.com/OSOceanAcoustics/echopype">https://github.com/OSOceanAcoustics/echopype&lt;/a>.&lt;/p>
+&lt;p>Check out my talk at SciPy 2019 that discussed the goals and philosophy of echopype:
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/qboH7MyHrpU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/p></description></item><item><title>Echo Statistics</title><link>https://uw-echospace.github.io/software/echo-stat-tutorial/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/software/echo-stat-tutorial/</guid><description>&lt;p>For a 2018 tutorial I published with
+&lt;a href="https://www2.whoi.edu/staff/tstanton/" target="_blank" rel="noopener">Tim Stanton&lt;/a> and
+&lt;a href="https://www.linkedin.com/in/kyungmin-baik-098156149/" target="_blank" rel="noopener">Kyungmin Baik&lt;/a> in
+the Journal of the Acoustical Society of America (JASA):&lt;/p>
+&lt;p>&lt;strong>Echo statistics associated with discrete scatterers: A tutorial on physics-based methods&lt;/strong>. JASA 144(6): 3124–3171; &lt;a href="https://doi.org/10.1121/1.5052255">https://doi.org/10.1121/1.5052255&lt;/a>&lt;/p>
+&lt;p>we provided the Matlab code to reproduce all figures in two forms:&lt;/p>
+&lt;ul>
+&lt;li>a &lt;em>frozen&lt;/em> version archived with the paper, and&lt;/li>
+&lt;li>a GitHub
+&lt;a href="https://github.com/leewujung/echo-stats-tutorial" target="_blank" rel="noopener">repository&lt;/a> minted with a
+&lt;a href="https://doi.org/10.5281/zenodo.2458776" target="_blank" rel="noopener">DOI from Zenodo&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>This way we can keep the code &amp;ldquo;alive&amp;rdquo; on GitHub but also has a convenient snapshot of the code at the time of the tutorial publication.&lt;/p></description></item></channel></rss>
