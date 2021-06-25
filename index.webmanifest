@@ -2,8 +2,8 @@
   "name": "Echospace @ UW",
   "short_name": "Echospace @ UW",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#0894f8",
+  "background_color": "#0894f8",
   "icons": [{
     "src": "/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
