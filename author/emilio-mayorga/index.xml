@@ -1,109 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Emilio Mayorga | Echospace @ UW</title><link>https://uw-echospace.github.io/author/emilio-mayorga/</link><atom:link href="https://uw-echospace.github.io/author/emilio-mayorga/index.xml" rel="self" type="application/rss+xml"/><description>Emilio Mayorga</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Sep 2021 10:00:00 -0800</lastBuildDate><image><url>https://uw-echospace.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_2.png</url><title>Emilio Mayorga</title><link>https://uw-echospace.github.io/author/emilio-mayorga/</link></image><item><title>Research software engineer position for cloud-based ocean sonar data processing</title><link>https://uw-echospace.github.io/position/2021-09-06-rse/</link><pubDate>Sat, 04 Sep 2021 10:00:00 -0800</pubDate><guid>https://uw-echospace.github.io/position/2021-09-06-rse/</guid><description>&lt;h3 id="location">Location&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Emilio Mayorga | Echospace @ UW</title><link>https://uw-echospace.github.io/author/emilio-mayorga/</link><atom:link href="https://uw-echospace.github.io/author/emilio-mayorga/index.xml" rel="self" type="application/rss+xml"/><description>Emilio Mayorga</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Dec 2021 00:00:00 -0800</lastBuildDate><image><url>https://uw-echospace.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_2.png</url><title>Emilio Mayorga</title><link>https://uw-echospace.github.io/author/emilio-mayorga/</link></image><item><title>2022 CICOES postdoc fellowship program now accepting applications!</title><link>https://uw-echospace.github.io/position/2021-12-04-cicoes-postdoc/</link><pubDate>Sat, 04 Dec 2021 00:00:00 -0800</pubDate><guid>https://uw-echospace.github.io/position/2021-12-04-cicoes-postdoc/</guid><description>&lt;h3 id="location">Location&lt;/h3>
 &lt;p>Seattle, WA, USA&lt;/p>
-&lt;h3 id="open-date">Open Date&lt;/h3>
-&lt;p>September 6, 2021&lt;/p>
 &lt;h3 id="deadline">Deadline&lt;/h3>
-&lt;p>Open until filled. Review of materials will start immediately.&lt;/p>
+&lt;p>January 23, 2022&lt;/p>
 &lt;h3 id="description">Description&lt;/h3>
-&lt;p>We are looking for a highly motivated and independent individual to join the
-&lt;a href="https://uw-echospace.github.io/" target="_blank" rel="noopener">Echospace&lt;/a> group at the University of Washington (UW) as a research software engineer. This will be a 12-month project appointment, with potential continuation based on funding availability and demonstration of skill developments throughout the appointment period.&lt;/p>
-&lt;p>&lt;strong>The research software engineer’s primary responsibility is to develop computational and data workflows to enable efficient, open, cloud-native processing and exploration of ocean sonar data and the associated biological and environmental data.&lt;/strong> The engineer will support ongoing research projects in the group that focus on extracting biological information from the ever-growing Big Acoustic Data. This work will encompass several interconnected elements: optimizing computational operations for distributed computing, building a scalable cloud cyberinfrastructure, developing open-source software to perform specific data processing and analysis tasks, and providing tools to generate and interact with data that comply with a prescribed set of interoperable community standards.&lt;/p>
-&lt;p>The projects are in close collaboration with the NOAA Fisheries Northwest Fisheries Science Center (NWFSC) with a primary goal of developing a high-throughput echosounder data analysis pipeline to contribute to fishery stock assessment and ecosystem-based management. We are sponsored by the NOAA Office of Ocean Exploration and Research and NOAA Fisheries, and the engineer will have the opportunity to interact with the vibrant ocean sciences and data science communities at UW and in Seattle.&lt;/p>
-&lt;p>The UW
-&lt;a href="https://uw-echospace.github.io/" target="_blank" rel="noopener">Echospace&lt;/a> group, based jointly at the
-&lt;a href="https://www.apl.washington.edu/" target="_blank" rel="noopener">Applied Physics Laboratory&lt;/a> (APL) and
-&lt;a href="https://escience.washington.edu/" target="_blank" rel="noopener">eScience Institute&lt;/a>, is a highly collaborative research group with members with diverse backgrounds and experiences. Our research centers around acoustic ocean sensing and data science, and spans a broad spectrum from development of computational methods, open source software, cloud applications, to joint analysis of acoustic observations and ocean environmental variables. We are committed to provide a supportive environment for group members to grow and contribute to the acoustics, oceanography, and data science communities.&lt;/p>
-&lt;h3 id="description-of-duties">Description of Duties&lt;/h3>
-&lt;ul>
-&lt;li>Software development and cloud infrastructure (40%)
-&lt;ul>
-&lt;li>Support the design, refinement, and implementation of software specifications.&lt;/li>
-&lt;li>Implement, debug, test, benchmark, and optimize data processing and visualization software and routines.&lt;/li>
-&lt;li>Implement and maintain read/write support for specific community data standards.&lt;/li>
-&lt;li>Construct cloud infrastructure and workflows that take advantage of distributed computing libraries and use infrastructure-as-code approaches.&lt;/li>
-&lt;li>Release open-source software packages through GitHub and community package repositories.&lt;/li>
-&lt;li>Unit test new or updated code, and perform regression testing.&lt;/li>
-&lt;li>Create formal interface documentation and document code as needed.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Perform literature or online resource searches to identify solutions, develop strategies, and implement code to solve specific software or cloud computing challenges (20%)&lt;/li>
-&lt;li>Data management (10%)
-&lt;ul>
-&lt;li>Organize and manage data for cloud storage and access.&lt;/li>
-&lt;li>Implement appropriate practices for biological data storage and export.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Team collaboration and representation (25%)
-&lt;ul>
-&lt;li>Collaborate with team members who will contribute code and architecture solutions.&lt;/li>
-&lt;li>Assist research group members in programming and interacting with cloud resources.&lt;/li>
-&lt;li>Actively participate and present summaries of work progress at meetings within the research group, with collaborators, or professional conferences.&lt;/li>
-&lt;li>Contribute to preparation of research manuscripts, reports, presentations, reviews, summaries, proposals, and software development plans.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Other duties as assigned (5%).&lt;/li>
-&lt;/ul>
-&lt;h3 id="requirements">Requirements&lt;/h3>
-&lt;ul>
-&lt;li>Bachelor’s degree (earned or nearing completion of) in Science, Technology, Engineering, and Mathematics (STEM), such as electrical engineering, computer science, oceanography, fisheries and aquatic sciences, environmental science, or equivalent&lt;/li>
-&lt;li>One year of related experience, including internship and research experience prior to receiving the degree.&lt;/li>
-&lt;li>Demonstrated Python software development experience, including use of core scientific computing libraries numpy, matplotlib, etc and understanding of object-oriented programming.&lt;/li>
-&lt;li>Experience with collaborative software development and data science tools such as Git/GitHub and Jupyter.&lt;/li>
-&lt;li>Experience with Python software design and development life cycle and its components, such as test frameworks, Git-based workflows, continuous integration on GitHub, and package releases.&lt;/li>
-&lt;li>Excellent verbal and written skills to work with a diverse team, and ability to work both independently and as a team member.&lt;/li>
-&lt;/ul>
-&lt;h3 id="desired-qualification">Desired qualification&lt;/h3>
-&lt;ul>
-&lt;li>Familiarity with the open-source scientific Python software ecosystem (especially pandas, xarray, scipy) and specialized visualization libraries such as seaborn and holoviz.&lt;/li>
-&lt;li>Experience with distributed and cloud computing.&lt;/li>
-&lt;li>Experience interfacing with relational database systems in Python.&lt;/li>
-&lt;li>A background or interests in acoustics, oceanography, or environmental sciences&lt;/li>
-&lt;li>Creative problem-solving skills.&lt;/li>
-&lt;li>Experience building scientific software within a research team comprised of members at different education or career stages and from diverse professional and personal backgrounds.&lt;/li>
-&lt;/ul>
-&lt;h3 id="application-instructions">Application Instructions&lt;/h3>
-&lt;p>Please submit your application to Drs. Wu-Jung Lee (&lt;a href="mailto:leewj@uw.edu">leewj@uw.edu&lt;/a>) and Emilio Mayorga (&lt;a href="mailto:emiliom@uw.edu">emiliom@uw.edu&lt;/a>) with the following materials: 1) resume, including relevant experience; 2) cover letter with description of career goals and interests; 3) a list of three references and their contact information. Questions are welcome.&lt;/p>
-&lt;p>To request disability accommodation in the application process, please contact the UW&amp;rsquo;s Disability Services Office at 206-543-6450, or 206-543-6452 (TTY), or &lt;a href="mailto:dso@uw.edu">dso@uw.edu&lt;/a>.&lt;/p>
-&lt;hr>
-&lt;h4 id="_equal-employment-opportunity-statement_">&lt;em>Equal Employment Opportunity Statement&lt;/em>&lt;/h4>
-&lt;p>&lt;em>University of Washington is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, national origin, sex, sexual orientation, marital status, pregnancy, genetic information, gender identity or expression, age, disability, or protected veteran status.&lt;/em>&lt;/p>
-&lt;h4 id="_commitment-to-diversity_">&lt;em>Commitment to Diversity&lt;/em>&lt;/h4>
-&lt;p>&lt;em>The University of Washington is committed to building diversity among its faculty, librarian, staff, and student communities, and articulates that commitment in the
-&lt;a href="http://www.washington.edu/diversity/diversity-blueprint/" target="_blank" rel="noopener">UW Diversity Blueprint&lt;/a>. Additionally, the University’s Faculty Code recognizes faculty efforts in research, teaching and/or service that address diversity and equal opportunity as important contributions to
-&lt;a href="https://www.washington.edu/admin/rules/policies/FCG/FCCH24.html#2432" target="_blank" rel="noopener">a faculty member’s academic profile and responsibilities&lt;/a>.&lt;/em>&lt;/p></description></item><item><title>Postdoc position for machine learning in fisheries/ocean acoustics</title><link>https://uw-echospace.github.io/position/2021-06-30-postdoc-hake-ml/</link><pubDate>Wed, 30 Jun 2021 14:50:00 -0800</pubDate><guid>https://uw-echospace.github.io/position/2021-06-30-postdoc-hake-ml/</guid><description>&lt;h3 id="location">Location&lt;/h3>
-&lt;p>Seattle, WA, USA&lt;/p>
-&lt;h3 id="open-date">Open Date&lt;/h3>
-&lt;p>June 30, 2021&lt;/p>
-&lt;h3 id="deadline">Deadline&lt;/h3>
-&lt;p>Open until filled. Review of materials will start immediately.&lt;/p>
-&lt;h3 id="description">Description&lt;/h3>
-&lt;p>We are looking for a highly motivated and independent individual to join the
-&lt;a href="https://uw-echospace.github.io/" target="_blank" rel="noopener">Echospace&lt;/a> group at the University of Washington to conduct research at the intersection of fisheries/ocean acoustics and machine learning.&lt;/p>
-&lt;p>The postdoc will develop and apply machine learning methodologies to extract identification and distribution information of fish and zooplankton from large volumes of water column sonar data collected over the past 20 years off the west coast of the U.S. The project is in close collaboration with the NOAA Fisheries Northwest Fisheries Science Center (NWFSC) with a primary goal of developing a high-throughput echosounder data analysis pipeline to contribute to fishery stock assessment and ecosystem-based management. In addition, the postdoc will have opportunities to develop skills including cloud computing and software engineering as integrated components of their work within Echospace and interact with the vibrant ocean sciences and data science communities at UW and in Seattle.&lt;/p>
-&lt;p>The UW Echospace group, based jointly at the
-&lt;a href="https://www.apl.washington.edu/" target="_blank" rel="noopener">Applied Physics Laboratory&lt;/a> (APL) and
-&lt;a href="https://escience.washington.edu/" target="_blank" rel="noopener">eScience Institute&lt;/a>, is a highly collaborative research group with members with diverse backgrounds and experiences. Our research centers around acoustic ocean sensing and data science, and spans a broad spectrum from development of computational methods, open source software, cloud applications, to joint analysis of acoustic observations and ocean environmental variables. We are committed to provide a supportive environment for group members to grow and contribute to the acoustics, oceanography, and data science communities.&lt;/p>
-&lt;p>The anticipated start date of this position is in the Fall of 2021. The initial appointment period is 18 months, with renewal contingent on satisfactory performance and funding availability (also see Limitations on Appointment below). Promotional opportunities following the completion of the postdoc appointment are possible subject to availability of funds and demonstration of an interest in developing independent research initiatives during the appointment. The candidate is encouraged to apply for the
-&lt;a href="https://escience.washington.edu/uw-data-science-postdoctoral-fellow/" target="_blank" rel="noopener">UW Data Science Postdoctoral Fellowship&lt;/a> and the
-&lt;a href="https://apply.interfolio.com/86009" target="_blank" rel="noopener">APL Science and Engineering Enrichment and Development (SEED) Postdoctoral Scholar Program&lt;/a> in parallel with this position.&lt;/p>
-&lt;h3 id="qualifications">Qualifications&lt;/h3>
-&lt;p>The candidate will hold a PhD degree (earned or nearing completion of) in acoustics, oceanography, computational sciences, or a related field, and have a track record of first-author, peer-reviewed publications, programming experience (Python, R, Matlab, or similar), and prior research experience in relevant research domains, such as ocean acoustics, fisheries acoustics, machine learning, statistics, data visualization, and physical or biological oceanography. Familiarity with echosounder data and analysis techniques, and experience applying machine learning methods to scientific problems are preferred. They are expected to have excellent communication skills, the experience and/or ability to work in a team environment, and a strong interest in interdisciplinary research approaches.&lt;/p>
-&lt;h3 id="application-instructions">Application Instructions&lt;/h3>
-&lt;p>Please upload your application materials via Interfolio at &lt;a href="https://apply.interfolio.com/89869">https://apply.interfolio.com/89869&lt;/a>. Include the following materials:&lt;/p>
-&lt;ol>
-&lt;li>CV including a list of publications (include GitHub handle if available)&lt;/li>
-&lt;li>Cover letter with a brief description of present and future research interests&lt;/li>
-&lt;li>A list of three references and their contact information&lt;/li>
-&lt;/ol>
-&lt;p>For questions about the position, please reach out to Dr. Wu-Jung Lee (&lt;a href="mailto:leewj@uw.edu">leewj@uw.edu&lt;/a>).&lt;/p>
-&lt;p>To request disability accommodation in the application process, please contact the UW&amp;rsquo;s Disability Services Office at 206-543-6450, or 206-543-6452 (TTY), or &lt;a href="mailto:dso@uw.edu">dso@uw.edu&lt;/a>.&lt;/p>
-&lt;hr>
-&lt;h4 id="_limitations-on-appointment_">&lt;em>Limitations on Appointment&lt;/em>&lt;/h4>
-&lt;p>&lt;em>In compliance with regulations at University of Washington, cumulative length of postdoctoral appointment may not exceed 5 years, including postdoctoral experience(s) at other institutions. Postdoctoral Scholars are engaged in full-time mentored advanced training to enhance professional skills and research independence, and perform primarily research and scholarship under the direction and supervision of University faculty mentors.&lt;/em>&lt;/p>
-&lt;p>&lt;em>Postdoctoral scholars are represented by UAW 4121 and are subject to the collective bargaining agreement, unless agreed exclusion criteria apply. For more information, please visit the University of Washington Labor Relations website (UAW Contract).&lt;/em>&lt;/p>
-&lt;h4 id="_equal-employment-opportunity-statement_">&lt;em>Equal Employment Opportunity Statement&lt;/em>&lt;/h4>
-&lt;p>&lt;em>University of Washington is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, national origin, sex, sexual orientation, marital status, pregnancy, genetic information, gender identity or expression, age, disability, or protected veteran status.&lt;/em>&lt;/p>
-&lt;h4 id="_commitment-to-diversity_">&lt;em>Commitment to Diversity&lt;/em>&lt;/h4>
-&lt;p>&lt;em>The University of Washington is committed to building diversity among its faculty, librarian, staff, and student communities, and articulates that commitment in the
-&lt;a href="http://www.washington.edu/diversity/diversity-blueprint/" target="_blank" rel="noopener">UW Diversity Blueprint&lt;/a>. Additionally, the University’s Faculty Code recognizes faculty efforts in research, teaching and/or service that address diversity and equal opportunity as important contributions to
-&lt;a href="https://www.washington.edu/admin/rules/policies/FCG/FCCH24.html#2432" target="_blank" rel="noopener">a faculty member’s academic profile and responsibilities&lt;/a>.&lt;/em>&lt;/p></description></item></channel></rss>
+&lt;p>The Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES) at the University of Washington (UW), University of Alaska Fairbanks (UAF), and Oregon State University (OSU) seeks Postdoctoral Scholars with research interests in atmospheric science, climate science, fisheries science, and/or oceanography. As a National Oceanic and Atmospheric Administration (NOAA) sponsored Cooperative Institute, CICOES promotes and facilitates collaborative research between UW, UAF, OSU and the Alaska Fisheries Science Center (AFSC), the Northwest Fisheries Science Center (NWFSC), and the Pacific Marine Environmental Laboratory (PMEL). See the
+&lt;a href="https://cicoes.uw.edu/education/postdoc-program/" target="_blank" rel="noopener">CICOES postdoc program page&lt;/a> for detail.&lt;/p>
+&lt;p>We welcome researchers interested in the CICOES research themes to submit applications to work with us in Echospace! Relevant areas include but not limited to Environmental Data Science; Marine Ecosystems: Observation, Analysis, Forecasts; and Ocean and Coastal Observations.&lt;/p>
+&lt;h3 id="to-apply">To apply&lt;/h3>
+&lt;p>See the
+&lt;a href="https://cicoes.uw.edu/wp-content/uploads/sites/21/2021/11/CICOES_Postdoctoral_Program_2022.pdf" target="_blank" rel="noopener">2022 application details&lt;/a> for eligibility information and application instructions. Feel free to reach out to Wu-Jung Lee, Valentina Staneva, and Emilio Mayorga for discussions.&lt;/p></description></item></channel></rss>
