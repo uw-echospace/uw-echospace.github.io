@@ -1,11 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Emilio Mayorga | Echospace @ UW</title><link>https://uw-echospace.github.io/author/emilio-mayorga/</link><atom:link href="https://uw-echospace.github.io/author/emilio-mayorga/index.xml" rel="self" type="application/rss+xml"/><description>Emilio Mayorga</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 18:10:00 +0200</lastBuildDate><image><url>https://uw-echospace.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_2.png</url><title>Emilio Mayorga</title><link>https://uw-echospace.github.io/author/emilio-mayorga/</link></image><item><title>Updates from Echopype developers: changes and roadmap</title><link>https://uw-echospace.github.io/talk/202204-wgfast-echopype/</link><pubDate>Wed, 27 Apr 2022 18:10:00 +0200</pubDate><guid>https://uw-echospace.github.io/talk/202204-wgfast-echopype/</guid><description/></item><item><title>2022 CICOES postdoc fellowship program now accepting applications!</title><link>https://uw-echospace.github.io/position/2021-12-04-cicoes-postdoc/</link><pubDate>Sat, 04 Dec 2021 00:00:00 -0800</pubDate><guid>https://uw-echospace.github.io/position/2021-12-04-cicoes-postdoc/</guid><description>&lt;h3 id="location">Location&lt;/h3>
-&lt;p>Seattle, WA, USA&lt;/p>
-&lt;h3 id="deadline">Deadline&lt;/h3>
-&lt;p>January 23, 2022&lt;/p>
-&lt;h3 id="description">Description&lt;/h3>
-&lt;p>The Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES) at the University of Washington (UW), University of Alaska Fairbanks (UAF), and Oregon State University (OSU) seeks Postdoctoral Scholars with research interests in atmospheric science, climate science, fisheries science, and/or oceanography. As a National Oceanic and Atmospheric Administration (NOAA) sponsored Cooperative Institute, CICOES promotes and facilitates collaborative research between UW, UAF, OSU and the Alaska Fisheries Science Center (AFSC), the Northwest Fisheries Science Center (NWFSC), and the Pacific Marine Environmental Laboratory (PMEL). See the
-&lt;a href="https://cicoes.uw.edu/education/postdoc-program/" target="_blank" rel="noopener">CICOES postdoc program page&lt;/a> for detail.&lt;/p>
-&lt;p>We welcome researchers interested in the CICOES research themes to submit applications to work with us in Echospace! Relevant areas include but not limited to Environmental Data Science; Marine Ecosystems: Observation, Analysis, Forecasts; and Ocean and Coastal Observations.&lt;/p>
-&lt;h3 id="to-apply">To apply&lt;/h3>
-&lt;p>See the
-&lt;a href="https://cicoes.uw.edu/wp-content/uploads/sites/21/2021/11/CICOES_Postdoctoral_Program_2022.pdf" target="_blank" rel="noopener">2022 application details&lt;/a> for eligibility information and application instructions. Feel free to reach out to Wu-Jung Lee, Valentina Staneva, and Emilio Mayorga for discussions.&lt;/p></description></item><item><title>Scalable, interoperable processing of water column sonar data for biological applications using the echopype Python package</title><link>https://uw-echospace.github.io/talk/202110-ioos-dmac/</link><pubDate>Thu, 28 Oct 2021 15:00:00 -0500</pubDate><guid>https://uw-echospace.github.io/talk/202110-ioos-dmac/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Emilio Mayorga | Echospace @ UW</title><link>https://uw-echospace.github.io/author/emilio-mayorga/</link><atom:link href="https://uw-echospace.github.io/author/emilio-mayorga/index.xml" rel="self" type="application/rss+xml"/><description>Emilio Mayorga</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 00:00:00 -0800</lastBuildDate><image><url>https://uw-echospace.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_2.png</url><title>Emilio Mayorga</title><link>https://uw-echospace.github.io/author/emilio-mayorga/</link></image><item><title>Opportunities at Echospace</title><link>https://uw-echospace.github.io/position/fellowships/</link><pubDate>Mon, 25 Jul 2022 00:00:00 -0800</pubDate><guid>https://uw-echospace.github.io/position/fellowships/</guid><description>&lt;h2 id="general-information">General information&lt;/h2>
+&lt;p>We welcome researchers and students with diverse backgrounds to come work with us in Echospace! If you are interested but do not find a specific position posted, feel free to reach out to us directly. Please include a cover letter and a CV/resume when initiating the contact, so that we have a better idea what you are looking for.&lt;/p>
+&lt;h2 id="fellowship-opportunities">Fellowship opportunities&lt;/h2>
+&lt;p>Below are a list of fellowship opportunities within and outside of UW. Relevant areas include but are not limited to fisheries and ocean acoustics, animal echolocation (bats and dolphins), marine ecology, and environmental data science. Feel free to reach out to us for questions and discussion.&lt;/p>
+&lt;h3 id="postdoc-fellowships">Postdoc fellowships&lt;/h3>
+&lt;h4 id="university-of-washington">University of Washington&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;a href="https://ap.washington.edu/ahr/position-details/?job_id=99111" target="_blank" rel="noopener">APL SEED Postdoctoral Scholar Program&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://cicoes.uw.edu/education/postdoc-program/" target="_blank" rel="noopener">Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES) postdoctoral fellowship&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/" target="_blank" rel="noopener">Washington Research Foundation (WRF) Postdoctoral Fellowship&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="external">External&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;a href="https://beta.nsf.gov/funding/opportunities/ocean-sciences-postdoctoral-research-fellowships-oce-prf-0" target="_blank" rel="noopener">NSF Ocean Sciences (OCE) Postdoctoral Research Fellowships (OCE-PRF)&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://beta.nsf.gov/funding/opportunities/ear-postdoctoral-fellowships-ear-pf" target="_blank" rel="noopener">NSF Division of Earth Sciences (EAR) Postdoctoral Fellowships (EAR-PF)&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://acousticalsociety.org/fellowships-and-scholarships/" target="_blank" rel="noopener">Acoustical Society of America (ASA) Hunt Postdoctoral Research fellowship&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="graduate-fellowships">Graduate fellowships&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://www.nsfgrfp.org/" target="_blank" rel="noopener">NSF Graduate Research Fellowships Program (GRFP)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="undergraduate-fellowships">Undergraduate fellowships&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://expd.uw.edu/mge/apply/research/" target="_blank" rel="noopener">Mary Gates Research Scholarship&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Updates from Echopype developers: changes and roadmap</title><link>https://uw-echospace.github.io/talk/202204-wgfast-echopype/</link><pubDate>Wed, 27 Apr 2022 18:10:00 +0200</pubDate><guid>https://uw-echospace.github.io/talk/202204-wgfast-echopype/</guid><description/></item><item><title>Scalable, interoperable processing of water column sonar data for biological applications using the echopype Python package</title><link>https://uw-echospace.github.io/talk/202110-ioos-dmac/</link><pubDate>Thu, 28 Oct 2021 15:00:00 -0500</pubDate><guid>https://uw-echospace.github.io/talk/202110-ioos-dmac/</guid><description/></item></channel></rss>
