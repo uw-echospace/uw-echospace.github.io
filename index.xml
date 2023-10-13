@@ -97,7 +97,60 @@ the Journal of the Acoustical Society of America (JASA):&lt;/p>
 &lt;li>Be comfortable bringing up issues or obstacles that hold you back from getting work done&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Investigation of duty cycles in passive acoustic bat monitoring</title><link>https://uw-echospace.github.io/talk/202305-urp-symposium/</link><pubDate>Fri, 19 May 2023 15:30:00 +0200</pubDate><guid>https://uw-echospace.github.io/talk/202305-urp-symposium/</guid><description/></item><item><title>Postdoc position for machine learning in fisheries/ocean acoustics for ecological applications</title><link>https://uw-echospace.github.io/position/2022-08-22-postdoc/</link><pubDate>Mon, 22 Aug 2022 00:00:00 -0800</pubDate><guid>https://uw-echospace.github.io/position/2022-08-22-postdoc/</guid><description>&lt;h3 id="location">Location&lt;/h3>
+&lt;/ul></description></item><item><title>A Summer of Refactoring Echoshader!</title><link>https://uw-echospace.github.io/2023/09/18/a-summer-of-refactoring-echoshader/</link><pubDate>Mon, 18 Sep 2023 00:00:00 -0800</pubDate><guid>https://uw-echospace.github.io/2023/09/18/a-summer-of-refactoring-echoshader/</guid><description>&lt;p>&lt;em>Echospace recruited contributor
+&lt;a href="https://github.com/ldr426" target="_blank" rel="noopener">Dingrui Lei&lt;/a> in 2023 to refactor an echosounder data interactive visualization package called
+&lt;a href="https://github.com/OSOceanAcoustics/echoshader" target="_blank" rel="noopener">echoshader&lt;/a>.&lt;/em>&lt;/p>
+&lt;hr>
+&lt;h1 id="my-2023-summer-internship-with-echoshader-a-dive-into-advanced-ocean-sonar-data-visualization">My 2023 Summer Internship with Echoshader: A Dive into Advanced Ocean Sonar Data Visualization&lt;/h1>
+&lt;p>Author:
+&lt;a href="mailto:leidingrui426@gmail.com">Dingrui Lei&lt;/a>&lt;/p>
+&lt;p>Ref 1:
+&lt;a href="https://docs.google.com/presentation/d/1HmL2-luVmA9T5HfS3L1kBu8c7dDHo75znwaS-8YlTSE/edit#slide=id.p" target="_blank" rel="noopener">Slides&lt;/a> of presentation&lt;/p>
+&lt;p>Ref 2:
+&lt;a href="https://echoshader--140.org.readthedocs.build/en/140/intro.html" target="_blank" rel="noopener">Docs&lt;/a> for this version&lt;/p>
+&lt;p>Hello, readers! I&amp;rsquo;m excited to share my summer internship experience working on the fascinating project, Echoshader. This Python package, designed to enhance the visualization of ocean sonar data, has been my focus this summer. While I won&amp;rsquo;t be delving into technical jargon, I&amp;rsquo;ll give you a glimpse of my journey, the challenges I faced, and the accomplishments achieved during my internship. The prototype was built during
+&lt;a href="https://summerofcode.withgoogle.com/programs/2022/organizations/ioos" target="_blank" rel="noopener">GSoC 2022&lt;/a>.&lt;/p>
+&lt;h2 id="echoshader-bridging-the-gap-in-ocean-sonar-data-visualization">Echoshader: Bridging the Gap in Ocean Sonar Data Visualization&lt;/h2>
+&lt;p>Before I jump into the technical details, let&amp;rsquo;s take a moment to understand the significance of ocean sonar systems. These systems, including echosounders, are the unsung heroes of marine research. They help scientists study marine life by emitting sound waves and analyzing the echoes they bounce back. Think of it as an underwater ultrasound for the ocean. The data generated from these systems is invaluable for monitoring and conserving our marine ecosystems.&lt;/p>
+&lt;p>Echoshader, our summer project, aims to make this data more accessible and interactive. It&amp;rsquo;s like a powerful toolset that enables scientists and researchers to visualize and analyze ocean sonar data effortlessly. But let&amp;rsquo;s get into the nitty-gritty of my experience.&lt;/p>
+&lt;h2 id="building-the-echoshader-a-structured-journey">Building the Echoshader: A Structured Journey&lt;/h2>
+&lt;p>My summer project was all about creating and refining the Echoshader package. This package is the backbone of our mission, providing oceanographers and researchers with the tools they need to visualize and understand ocean sonar data. Here&amp;rsquo;s how I structured my work:&lt;/p>
+&lt;h3 id="1-the-echoshader-class-a-controller-for-visualization">1. The Echoshader Class: A Controller for Visualization&lt;/h3>
+&lt;p>At the heart of Echoshader lies the Echoshader class. This class is like the conductor of an orchestra, coordinating user interactions, data updates, and visualizations. My task was to make sure this class was robust and user-friendly.&lt;/p>
+&lt;p>I defined the class and set up initial values and interactive widgets. These widgets allow users to tweak parameters and explore data interactively.&lt;/p>
+&lt;h3 id="2-callbacks-and-streams-making-it-interactive">2. Callbacks and Streams: Making It Interactive&lt;/h3>
+&lt;p>Echoshader needed to be interactive, allowing users to explore data dynamically. This required creating callback methods and stream objects. These elements connected user interactions to visualization updates, making the whole experience smooth and intuitive.
+&lt;img width="594" alt="image" src="https://github.com/ldr426/add-ldr426-page/assets/56751303/472ca1bf-4ec3-4e27-82db-20dba3f7fa58">&lt;/p>
+&lt;h3 id="3-extending-xarray-with-accessors-a-new-level-of-functionality">3. Extending &lt;code>Xarray&lt;/code> with Accessors: A New Level of Functionality&lt;/h3>
+&lt;p>One of the exciting challenges I encountered was extending &lt;code>xarray&lt;/code>&amp;rsquo;s functionality using accessors. This means adding custom methods and functionality to &lt;code>xarray&lt;/code> objects, without cluttering the code with custom functions. We created a custom &amp;ldquo;eshader&amp;rdquo; accessor, which allowed us to take echogram visualization to the next level.&lt;/p>
+&lt;h2 id="a-glimpse-into-echogram-visualization">A Glimpse into Echogram Visualization&lt;/h2>
+&lt;p>Echogram visualization is where the magic happens. It&amp;rsquo;s not just about pretty pictures; it&amp;rsquo;s about gaining insights into marine life and ecosystems.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Echograms for Identifying Fish&lt;/strong>: Fisheries scientists rely on echograms to identify fish aggregations, scrolling through data collected on ships to assess populations.&lt;/li>
+&lt;li>&lt;strong>Echograms for Observing Zooplankton&lt;/strong>: Oceanographers use echograms to observe zooplankton movements in mooring data over extended periods.&lt;/li>
+&lt;li>&lt;strong>Tricolor Echograms&lt;/strong>: The &amp;ldquo;tricolor&amp;rdquo; echogram helps distinguish different fish species, thanks to its clever mapping of three frequencies to RGB colors.&lt;/li>
+&lt;/ul>
+&lt;img width="613" alt="single_frequency_echogram" src="https://github.com/ldr426/add-ldr426-page/assets/11621647/a51a6a76-c73d-46c1-84dd-8df643438f07">
+&lt;img width="613" alt="tricolor_echogram" src="https://github.com/ldr426/add-ldr426-page/assets/11621647/0ba62c35-5dd0-41db-9225-db0290be1215">
+&lt;h2 id="tracking-and-curtain-visualization">Tracking and Curtain Visualization&lt;/h2>
+&lt;p>One of the most exciting aspects of Echoshader is tracking and curtain visualization. It&amp;rsquo;s like having a GPS for underwater data.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Echogram-Control Mode&lt;/strong>: Visualizing data on a map helps assess fish associations with environmental variables.&lt;/li>
+&lt;li>&lt;strong>Track-Control Mode&lt;/strong>: Highlighting ship track sections on the map while viewing corresponding echograms offers precise insights into marine life at specific locations.&lt;/li>
+&lt;li>&lt;strong>Curtain Visualization&lt;/strong>: Representing longer data sections as curtains provides a broader spatial perspective on fish aggregations.
+&lt;img width="609" alt="image" src="https://github.com/ldr426/add-ldr426-page/assets/56751303/dab25ce8-bba3-4062-85e9-4ce3231172fc">&lt;/li>
+&lt;/ul>
+&lt;img width="502" alt="image" src="https://github.com/ldr426/add-ldr426-page/assets/56751303/2a1a33df-c639-4b53-9df2-ae2523cd3901">
+&lt;h2 id="histograms-and-statistics-tables-tools-for-deeper-analysis">Histograms and Statistics Tables: Tools for Deeper Analysis&lt;/h2>
+&lt;p>Histograms and statistics tables are essential for fisheries scientists.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Focused Analysis&lt;/strong>: Scientists can zoom in on specific data sections to examine volume backscattering strength (Sv) distribution and understand the types of fish present.&lt;/li>
+&lt;li>&lt;strong>Multi-Channel Comparisons&lt;/strong>: Comparing Sv distributions across multiple echosounder channels helps determine fish aggregation composition, offering valuable insights into the ecosystem.
+&lt;img width="722" alt="image" src="https://github.com/ldr426/add-ldr426-page/assets/56751303/623ca032-cab8-4fe0-8f37-57774a64e1b0">&lt;/li>
+&lt;/ul>
+&lt;h2 id="in-conclusion-an-incredible-summer-journey">In Conclusion: An Incredible Summer Journey&lt;/h2>
+&lt;p>My summer internship with Echoshader has been a remarkable journey. I&amp;rsquo;ve had the privilege of contributing to a project to advance oceanographic research and fisheries science. Echoshader isn&amp;rsquo;t just a package; it&amp;rsquo;s a gateway to uncovering the secrets of our oceans.&lt;/p>
+&lt;p>If you&amp;rsquo;re curious about ocean sonar data or want to explore the world of marine life, Echoshader is your partner in discovery. Feel free to reach out if you have questions or want to join us on this exciting journey. Until next time, happy exploring!&lt;/p></description></item><item><title>Investigation of duty cycles in passive acoustic bat monitoring</title><link>https://uw-echospace.github.io/talk/202305-urp-symposium/</link><pubDate>Fri, 19 May 2023 15:30:00 +0200</pubDate><guid>https://uw-echospace.github.io/talk/202305-urp-symposium/</guid><description/></item><item><title>Postdoc position for machine learning in fisheries/ocean acoustics for ecological applications</title><link>https://uw-echospace.github.io/position/2022-08-22-postdoc/</link><pubDate>Mon, 22 Aug 2022 00:00:00 -0800</pubDate><guid>https://uw-echospace.github.io/position/2022-08-22-postdoc/</guid><description>&lt;h3 id="location">Location&lt;/h3>
 &lt;p>Seattle, WA, USA&lt;/p>
 &lt;h3 id="deadline">Deadline&lt;/h3>
 &lt;p>Open until filled. Review of materials will start immediately.&lt;/p>
