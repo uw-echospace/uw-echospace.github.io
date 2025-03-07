@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Positions | Echospace @ UW</title><link>https://uw-echospace.github.io/position/</link><atom:link href="https://uw-echospace.github.io/position/index.xml" rel="self" type="application/rss+xml"/><description>Positions</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 -0800</lastBuildDate><image><url>https://uw-echospace.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_2.png</url><title>Positions</title><link>https://uw-echospace.github.io/position/</link></image><item><title>Opportunities at Echospace</title><link>https://uw-echospace.github.io/position/opportunities/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/position/opportunities/</guid><description>&lt;h2 id="general-information">General information&lt;/h2>
+&lt;p>We welcome researchers and students with diverse backgrounds to come work with us in Echospace! If you don&amp;rsquo;t see a specific position below, feel free to reach out to us directly. Please include a cover letter and a CV/resume when initiating the contact, so that we have a better idea what you are looking for and your background.&lt;/p>
+&lt;h2 id="fellowship-opportunities">Fellowship opportunities&lt;/h2>
+&lt;p>Below is a list of fellowship opportunities within and outside of UW. Relevant areas include but are not limited to fisheries and ocean acoustics, animal echolocation (bats and dolphins), marine ecology, and environmental data science. Feel free to reach out to us for questions and discussion.&lt;/p>
+&lt;h3 id="postdoc-fellowships">Postdoc fellowships&lt;/h3>
+&lt;h4 id="university-of-washington">University of Washington&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;a href="https://ap.washington.edu/ahr/position-details/?job_id=99111" target="_blank" rel="noopener">APL SEED Postdoctoral Scholar Program&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://cicoes.uw.edu/education/postdoc-program/" target="_blank" rel="noopener">Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES) postdoctoral fellowship&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/" target="_blank" rel="noopener">Washington Research Foundation (WRF) Postdoctoral Fellowship&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="external">External&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;a href="https://beta.nsf.gov/funding/opportunities/ocean-sciences-postdoctoral-research-fellowships-oce-prf-0" target="_blank" rel="noopener">NSF Ocean Sciences (OCE) Postdoctoral Research Fellowships (OCE-PRF)&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://beta.nsf.gov/funding/opportunities/ear-postdoctoral-fellowships-ear-pf" target="_blank" rel="noopener">NSF Division of Earth Sciences (EAR) Postdoctoral Fellowships (EAR-PF)&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://acousticalsociety.org/fellowships-and-scholarships/" target="_blank" rel="noopener">Acoustical Society of America (ASA) F. V. Hunt Postdoctoral Research fellowship&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="graduate-fellowships">Graduate fellowships&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://www.nsfgrfp.org/" target="_blank" rel="noopener">NSF Graduate Research Fellowships Program (GRFP)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="undergraduate-fellowships">Undergraduate fellowships&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://expd.uw.edu/mge/apply/research/" target="_blank" rel="noopener">UW Mary Gates Research Scholarship&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://www.apl.uw.edu/education/dino_sip.php" target="_blank" rel="noopener">APL DINO-SIP Diverse + Inclusive Naval Oceanographic Summer Intership Program&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Scientific Software Engineering Opportunity</title><link>https://uw-echospace.github.io/position/2025-03-01-rse/</link><pubDate>Sat, 01 Mar 2025 00:00:00 -0800</pubDate><guid>https://uw-echospace.github.io/position/2025-03-01-rse/</guid><description>&lt;h2 id="open-source-software-to-accelerate-marine-ecosystem-research">Open-Source Software to Accelerate Marine Ecosystem Research&lt;/h2>
+&lt;p>The
+&lt;a href="https://uw-echospace.github.io/" target="_blank" rel="noopener">Echospace&lt;/a> research group at the University of Washington, Seattle is seeking a highly motivated individual to contribute to the development of cutting-edge software tools for marine ecosystem research. This position offers the opportunity to work on &amp;ldquo;
+&lt;a href="https://doi.org/10.25080/WXRH8633" target="_blank" rel="noopener">Echostack&lt;/a>&amp;rdquo;, a suite of open-source Python software packages designed to process and analyze large-scale echosounder data.&lt;/p>
+&lt;p>Echosounders are high-frequency ocean sonar systems widely used to
+&lt;a href="https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f" target="_blank" rel="noopener">study life in the ocean&lt;/a>. By transmitting sounds and analyzing the echoes bounced off fish and zooplankton, echosounders “image” the underwater world much like how medical ultrasound images the interior of the human body, providing crucial insights into marine ecosystems. By joining this project, you will play a key role in making echosounder data more accessible and useful for researchers worldwide.&lt;/p>
+&lt;h3 id="what-youll-do">What you’ll do&lt;/h3>
+&lt;ul>
+&lt;li>Design, develop, and test open-source software for processing and analyzing large volumes of echosounder data&lt;/li>
+&lt;li>Optimize and benchmark software performance on local computers and cloud virtual machines&lt;/li>
+&lt;li>Process and analyze archived echosounder data spanning over 20 years, collected by NOAA and other US institutions&lt;/li>
+&lt;li>Build and manage near real-time data workflows from research cruises&lt;/li>
+&lt;/ul>
+&lt;h3 id="who-were-looking-for">Who we’re looking for&lt;/h3>
+&lt;p>We welcome applications from recent graduates, post-baccalaureate researchers, advanced undergraduates, or current master’s students with the following qualifications:&lt;/p>
+&lt;ul>
+&lt;li>A solid foundation in software engineering&lt;/li>
+&lt;li>Proficiency with object-oriented programming, particularly in Python&lt;/li>
+&lt;li>Experience with or a strong interest in large datasets and distributed computing&lt;/li>
+&lt;li>Completion of a college level linear algebra course&lt;/li>
+&lt;li>Commitment to learn echosounder data processing procedures and data structures&lt;/li>
+&lt;li>A strong interest in ocean science, environmental science, or related fields&lt;/li>
+&lt;li>Excellent communication skills to work effectively in an interdisciplinary team of researchers with backgrounds in engineering, mathematics, and biology&lt;/li>
+&lt;/ul>
+&lt;p>Note this position is intended for early career professionals or students. The initial appointment will be 3-6 months with a possibility of extension. The exact position setup will vary depending on your status.&lt;/p>
+&lt;h3 id="why-join-us">Why join us?&lt;/h3>
+&lt;p>This is an excellent opportunity to:&lt;/p>
+&lt;ul>
+&lt;li>Develop open-source software that directly contributes to ocean research&lt;/li>
+&lt;li>Gain experience in scientific computing, cloud computing, and environmental data science&lt;/li>
+&lt;li>Work closely with researchers at the University of Washington, NOAA, and other institutions&lt;/li>
+&lt;li>Build your technical portfolio and establish connections in the ocean technology and research community&lt;/li>
+&lt;/ul>
+&lt;h3 id="resources">Resources&lt;/h3>
+&lt;ul>
+&lt;li>UW Echospace: &lt;a href="https://uw-echospace.github.io/">https://uw-echospace.github.io/&lt;/a>&lt;/li>
+&lt;li>Echostack Talk at SciPy 2024:
+&lt;a href="https://youtu.be/YRFxMGisGww" target="_blank" rel="noopener">Watch here&lt;/a>&lt;/li>
+&lt;li>Echostack Paper:
+&lt;a href="https://doi.org/10.25080/WXRH8633" target="_blank" rel="noopener">Read here&lt;/a>&lt;/li>
+&lt;li>Introduction to echosounder data:
+&lt;a href="https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f" target="_blank" rel="noopener">StoryMap&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="how-to-apply">How to Apply&lt;/h3>
+&lt;p>To apply, email Dr. Wu-Jung Lee (&lt;a href="mailto:leewj@uw.edu">leewj@uw.edu&lt;/a>) and Dr. Valentina Staneva (&lt;a href="mailto:vms16@uw.edu">vms16@uw.edu&lt;/a>) with the following:&lt;/p>
+&lt;ul>
+&lt;li>A cover letter detailing:
+&lt;ul>
+&lt;li>Why you believe you are a good fit for this role&lt;/li>
+&lt;li>How this position aligns with your career goals or research interests&lt;/li>
+&lt;li>Any relevant prior experiences&lt;/li>
+&lt;li>Timeframe and capacity (part-time/full-time) you are available for this position&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>A CV or resume that includes a link to your GitHub account (or equivalent portfolio) showcasing your previous software work.&lt;/li>
+&lt;/ul>
+&lt;p>If your past contributions are only available in private repositories, please provide a detailed project description or create a public example that highlights your skills.&lt;/p></description></item></channel></rss>

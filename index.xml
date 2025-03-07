@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Echospace @ UW</title><link>https://uw-echospace.github.io/</link><atom:link href="https://uw-echospace.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Echospace @ UW</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://uw-echospace.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_2.png</url><title>Echospace @ UW</title><link>https://uw-echospace.github.io/</link></image><item><title>Code of Conduct &amp; What we value</title><link>https://uw-echospace.github.io/group/coc/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/group/coc/</guid><description>&lt;h3 id="why">Why&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Echospace @ UW</title><link>https://uw-echospace.github.io/</link><atom:link href="https://uw-echospace.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Echospace @ UW</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 -0800</lastBuildDate><image><url>https://uw-echospace.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_2.png</url><title>Echospace @ UW</title><link>https://uw-echospace.github.io/</link></image><item><title>Code of Conduct &amp; What we value</title><link>https://uw-echospace.github.io/group/coc/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/group/coc/</guid><description>&lt;h3 id="why">Why&lt;/h3>
 &lt;ul>
 &lt;li>We respect and want to take advantage of the diversity of background and expertise in the group.&lt;/li>
 &lt;li>We also want to create an optimal learning and research environment for everyone.&lt;/li>
@@ -161,7 +161,7 @@
 &lt;a href="https://echopop.readthedocs.io/en/latest/" target="_blank" rel="noopener">documentation&lt;/a> that details the underlying theory and algorithmic implementation that help facilitate reproducibility. Other features include an
 &lt;a href="https://echopop.readthedocs.io/en/latest/api.html" target="_blank" rel="noopener">Application Programming Interface (API)&lt;/a> that can be invoked in a reproducible manner, a flexible analysis configuration that allows for both machine and human-readable parameterizations, and interactive Jupyter notebooks that exemplify various workflows
 &lt;a href="https://echopop.readthedocs.io/en/latest/example_notebooks/example_echopop_workflow.html" target="_blank" rel="noopener">ranging from initial data processing to kriging&lt;/a>.&lt;/p>
-&lt;p>&lt;strong>Funding agency&lt;/strong>: NOAA Fisheries, NOAA NWFSC&lt;/p></description></item><item><title>Opportunities at Echospace</title><link>https://uw-echospace.github.io/group/opportunities/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/group/opportunities/</guid><description>&lt;h2 id="general-information">General information&lt;/h2>
+&lt;p>&lt;strong>Funding agency&lt;/strong>: NOAA Fisheries, NOAA NWFSC&lt;/p></description></item><item><title>Opportunities at Echospace</title><link>https://uw-echospace.github.io/position/opportunities/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/position/opportunities/</guid><description>&lt;h2 id="general-information">General information&lt;/h2>
 &lt;p>We welcome researchers and students with diverse backgrounds to come work with us in Echospace! If you don&amp;rsquo;t see a specific position below, feel free to reach out to us directly. Please include a cover letter and a CV/resume when initiating the contact, so that we have a better idea what you are looking for and your background.&lt;/p>
 &lt;h2 id="fellowship-opportunities">Fellowship opportunities&lt;/h2>
 &lt;p>Below is a list of fellowship opportunities within and outside of UW. Relevant areas include but are not limited to fisheries and ocean acoustics, animal echolocation (bats and dolphins), marine ecology, and environmental data science. Feel free to reach out to us for questions and discussion.&lt;/p>
@@ -283,7 +283,63 @@ the Journal of the Acoustical Society of America (JASA):&lt;/p>
 &lt;li>Create new channels and announce in the #general channel for others to join&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Interoperable and scalable echosounder data processing with Echopype</title><link>https://uw-echospace.github.io/publication/2024-lee-etal-echopype/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/publication/2024-lee-etal-echopype/</guid><description/></item><item><title>Echostack: An open-source Python software toolbox that democratizes water column sonar dataand processing</title><link>https://uw-echospace.github.io/talk/202407-scipy-echostack/</link><pubDate>Thu, 11 Jul 2024 14:20:00 -0700</pubDate><guid>https://uw-echospace.github.io/talk/202407-scipy-echostack/</guid><description/></item><item><title>Investigation of duty cycles for measuring activity in passive acoustic bat monitoring</title><link>https://uw-echospace.github.io/talk/202405-aditya-duty-cycle/</link><pubDate>Tue, 14 May 2024 10:10:00 -0100</pubDate><guid>https://uw-echospace.github.io/talk/202405-aditya-duty-cycle/</guid><description/></item><item><title>Variability and influence of fisheries acoustic echogram annotations on machine learning applications</title><link>https://uw-echospace.github.io/talk/202405-asa-ottawa-hake/</link><pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/talk/202405-asa-ottawa-hake/</guid><description/></item><item><title>Two Pieces of the Same Puzzle: Active and Passive Acoustics for Cross-Trophic Marine Ecosystem Monitoring Part II</title><link>https://uw-echospace.github.io/talk/202405-asa-ottawa-school/</link><pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/talk/202405-asa-ottawa-school/</guid><description/></item><item><title>A ship-to-cloud machine learning pipeline built on the open-source Python Echostack software tools</title><link>https://uw-echospace.github.io/talk/202404-wgfast-ship2cloud/</link><pubDate>Thu, 11 Apr 2024 09:00:00 -0500</pubDate><guid>https://uw-echospace.github.io/talk/202404-wgfast-ship2cloud/</guid><description/></item><item><title>Scalable and configurable echosounder data workflows</title><link>https://uw-echospace.github.io/talk/202404-wgfast-echodataflow/</link><pubDate>Thu, 11 Apr 2024 09:00:00 -0500</pubDate><guid>https://uw-echospace.github.io/talk/202404-wgfast-echodataflow/</guid><description/></item><item><title>A Summer of Refactoring Echoshader!</title><link>https://uw-echospace.github.io/2023/09/18/a-summer-of-refactoring-echoshader/</link><pubDate>Mon, 18 Sep 2023 00:00:00 -0800</pubDate><guid>https://uw-echospace.github.io/2023/09/18/a-summer-of-refactoring-echoshader/</guid><description>&lt;p>&lt;em>Echospace recruited contributor
+&lt;/ul></description></item><item><title>Scientific Software Engineering Opportunity</title><link>https://uw-echospace.github.io/position/2025-03-01-rse/</link><pubDate>Sat, 01 Mar 2025 00:00:00 -0800</pubDate><guid>https://uw-echospace.github.io/position/2025-03-01-rse/</guid><description>&lt;h2 id="open-source-software-to-accelerate-marine-ecosystem-research">Open-Source Software to Accelerate Marine Ecosystem Research&lt;/h2>
+&lt;p>The
+&lt;a href="https://uw-echospace.github.io/" target="_blank" rel="noopener">Echospace&lt;/a> research group at the University of Washington, Seattle is seeking a highly motivated individual to contribute to the development of cutting-edge software tools for marine ecosystem research. This position offers the opportunity to work on &amp;ldquo;
+&lt;a href="https://doi.org/10.25080/WXRH8633" target="_blank" rel="noopener">Echostack&lt;/a>&amp;rdquo;, a suite of open-source Python software packages designed to process and analyze large-scale echosounder data.&lt;/p>
+&lt;p>Echosounders are high-frequency ocean sonar systems widely used to
+&lt;a href="https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f" target="_blank" rel="noopener">study life in the ocean&lt;/a>. By transmitting sounds and analyzing the echoes bounced off fish and zooplankton, echosounders “image” the underwater world much like how medical ultrasound images the interior of the human body, providing crucial insights into marine ecosystems. By joining this project, you will play a key role in making echosounder data more accessible and useful for researchers worldwide.&lt;/p>
+&lt;h3 id="what-youll-do">What you’ll do&lt;/h3>
+&lt;ul>
+&lt;li>Design, develop, and test open-source software for processing and analyzing large volumes of echosounder data&lt;/li>
+&lt;li>Optimize and benchmark software performance on local computers and cloud virtual machines&lt;/li>
+&lt;li>Process and analyze archived echosounder data spanning over 20 years, collected by NOAA and other US institutions&lt;/li>
+&lt;li>Build and manage near real-time data workflows from research cruises&lt;/li>
+&lt;/ul>
+&lt;h3 id="who-were-looking-for">Who we’re looking for&lt;/h3>
+&lt;p>We welcome applications from recent graduates, post-baccalaureate researchers, advanced undergraduates, or current master’s students with the following qualifications:&lt;/p>
+&lt;ul>
+&lt;li>A solid foundation in software engineering&lt;/li>
+&lt;li>Proficiency with object-oriented programming, particularly in Python&lt;/li>
+&lt;li>Experience with or a strong interest in large datasets and distributed computing&lt;/li>
+&lt;li>Completion of a college level linear algebra course&lt;/li>
+&lt;li>Commitment to learn echosounder data processing procedures and data structures&lt;/li>
+&lt;li>A strong interest in ocean science, environmental science, or related fields&lt;/li>
+&lt;li>Excellent communication skills to work effectively in an interdisciplinary team of researchers with backgrounds in engineering, mathematics, and biology&lt;/li>
+&lt;/ul>
+&lt;p>Note this position is intended for early career professionals or students. The initial appointment will be 3-6 months with a possibility of extension. The exact position setup will vary depending on your status.&lt;/p>
+&lt;h3 id="why-join-us">Why join us?&lt;/h3>
+&lt;p>This is an excellent opportunity to:&lt;/p>
+&lt;ul>
+&lt;li>Develop open-source software that directly contributes to ocean research&lt;/li>
+&lt;li>Gain experience in scientific computing, cloud computing, and environmental data science&lt;/li>
+&lt;li>Work closely with researchers at the University of Washington, NOAA, and other institutions&lt;/li>
+&lt;li>Build your technical portfolio and establish connections in the ocean technology and research community&lt;/li>
+&lt;/ul>
+&lt;h3 id="resources">Resources&lt;/h3>
+&lt;ul>
+&lt;li>UW Echospace: &lt;a href="https://uw-echospace.github.io/">https://uw-echospace.github.io/&lt;/a>&lt;/li>
+&lt;li>Echostack Talk at SciPy 2024:
+&lt;a href="https://youtu.be/YRFxMGisGww" target="_blank" rel="noopener">Watch here&lt;/a>&lt;/li>
+&lt;li>Echostack Paper:
+&lt;a href="https://doi.org/10.25080/WXRH8633" target="_blank" rel="noopener">Read here&lt;/a>&lt;/li>
+&lt;li>Introduction to echosounder data:
+&lt;a href="https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f" target="_blank" rel="noopener">StoryMap&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="how-to-apply">How to Apply&lt;/h3>
+&lt;p>To apply, email Dr. Wu-Jung Lee (&lt;a href="mailto:leewj@uw.edu">leewj@uw.edu&lt;/a>) and Dr. Valentina Staneva (&lt;a href="mailto:vms16@uw.edu">vms16@uw.edu&lt;/a>) with the following:&lt;/p>
+&lt;ul>
+&lt;li>A cover letter detailing:
+&lt;ul>
+&lt;li>Why you believe you are a good fit for this role&lt;/li>
+&lt;li>How this position aligns with your career goals or research interests&lt;/li>
+&lt;li>Any relevant prior experiences&lt;/li>
+&lt;li>Timeframe and capacity (part-time/full-time) you are available for this position&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>A CV or resume that includes a link to your GitHub account (or equivalent portfolio) showcasing your previous software work.&lt;/li>
+&lt;/ul>
+&lt;p>If your past contributions are only available in private repositories, please provide a detailed project description or create a public example that highlights your skills.&lt;/p></description></item><item><title>Interoperable and scalable echosounder data processing with Echopype</title><link>https://uw-echospace.github.io/publication/2024-lee-etal-echopype/</link><pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/publication/2024-lee-etal-echopype/</guid><description/></item><item><title>Echostack: An open-source Python software toolbox that democratizes water column sonar dataand processing</title><link>https://uw-echospace.github.io/talk/202407-scipy-echostack/</link><pubDate>Thu, 11 Jul 2024 14:20:00 -0700</pubDate><guid>https://uw-echospace.github.io/talk/202407-scipy-echostack/</guid><description/></item><item><title>Investigation of duty cycles for measuring activity in passive acoustic bat monitoring</title><link>https://uw-echospace.github.io/talk/202405-aditya-duty-cycle/</link><pubDate>Tue, 14 May 2024 10:10:00 -0100</pubDate><guid>https://uw-echospace.github.io/talk/202405-aditya-duty-cycle/</guid><description/></item><item><title>Variability and influence of fisheries acoustic echogram annotations on machine learning applications</title><link>https://uw-echospace.github.io/talk/202405-asa-ottawa-hake/</link><pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/talk/202405-asa-ottawa-hake/</guid><description/></item><item><title>Two Pieces of the Same Puzzle: Active and Passive Acoustics for Cross-Trophic Marine Ecosystem Monitoring Part II</title><link>https://uw-echospace.github.io/talk/202405-asa-ottawa-school/</link><pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/talk/202405-asa-ottawa-school/</guid><description/></item><item><title>A ship-to-cloud machine learning pipeline built on the open-source Python Echostack software tools</title><link>https://uw-echospace.github.io/talk/202404-wgfast-ship2cloud/</link><pubDate>Thu, 11 Apr 2024 09:00:00 -0500</pubDate><guid>https://uw-echospace.github.io/talk/202404-wgfast-ship2cloud/</guid><description/></item><item><title>Scalable and configurable echosounder data workflows</title><link>https://uw-echospace.github.io/talk/202404-wgfast-echodataflow/</link><pubDate>Thu, 11 Apr 2024 09:00:00 -0500</pubDate><guid>https://uw-echospace.github.io/talk/202404-wgfast-echodataflow/</guid><description/></item><item><title>A Summer of Refactoring Echoshader!</title><link>https://uw-echospace.github.io/2023/09/18/a-summer-of-refactoring-echoshader/</link><pubDate>Mon, 18 Sep 2023 00:00:00 -0800</pubDate><guid>https://uw-echospace.github.io/2023/09/18/a-summer-of-refactoring-echoshader/</guid><description>&lt;p>&lt;em>Echospace recruited contributor
 &lt;a href="https://github.com/ldr426" target="_blank" rel="noopener">Dingrui Lei&lt;/a> in 2023 to refactor an echosounder data interactive visualization package called
 &lt;a href="https://github.com/OSOceanAcoustics/echoshader" target="_blank" rel="noopener">echoshader&lt;/a>.&lt;/em>&lt;/p>
 &lt;hr>
