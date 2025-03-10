@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>open-source | Echospace @ UW</title><link>https://uw-echospace.github.io/tag/open-source/</link><atom:link href="https://uw-echospace.github.io/tag/open-source/index.xml" rel="self" type="application/rss+xml"/><description>open-source</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://uw-echospace.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_2.png</url><title>open-source</title><link>https://uw-echospace.github.io/tag/open-source/</link></image><item><title>The open-source "Echostack" for scalable, cloud-native processing of water column sonar data</title><link>https://uw-echospace.github.io/project/echostack/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/project/echostack/</guid><description>&lt;p>Water column sonar data collected by echosounders are essential for fisheries and marine ecosystem research, enabling the detection, classification, and quantification of fish and zooplankton from many different ocean observing platforms. However, the broad usage of these data has been hindered by the lack of modular software tools that allow flexible composition of data processing workflows that incorporate powerful analytical tools in the scientific Python ecosystem. We address this gap by developing &lt;strong>Echostack&lt;/strong>, a suite of open-source Python software packages that leverage existing distributed computing and cloud-interfacing libraries to support intuitive and scalable data access, processing, and interpretation. These tools can be used individually or orchestrated together, which we demonstrate in example use cases for a fisheries acoustic-trawl survey.&lt;/p>
-&lt;p>Currently, the Echostack contains the following packages:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>open-source | Echospace @ UW</title><link>https://uw-echospace.github.io/tag/open-source/</link><atom:link href="https://uw-echospace.github.io/tag/open-source/index.xml" rel="self" type="application/rss+xml"/><description>open-source</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://uw-echospace.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_2.png</url><title>open-source</title><link>https://uw-echospace.github.io/tag/open-source/</link></image><item><title>The open-source "Echostack" for flexible and scalable echosounder data processing</title><link>https://uw-echospace.github.io/project/echostack/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/project/echostack/</guid><description>&lt;p>
+&lt;a href="https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f" target="_blank" rel="noopener">Water column sonar data collected by echosounders&lt;/a> are essential for fisheries and marine ecosystem research, enabling the detection, classification, and quantification of fish and zooplankton from many different ocean observing platforms. However, the broad usage of these data has been hindered by the lack of modular software tools that allow flexible composition of data processing workflows that incorporate powerful analytical tools in the scientific Python ecosystem.&lt;/p>
+&lt;p>We address this gap by developing &lt;strong>Echostack&lt;/strong>, a suite of open-source Python software packages that leverage existing distributed computing and cloud-interfacing libraries to support intuitive and scalable data access, processing, and interpretation. These tools can be used individually or orchestrated together, which we demonstrate in example use cases for a fisheries acoustic-trawl survey.&lt;/p>
+&lt;p>Below is a summary of the Echostack package:&lt;/p>
+&lt;p align="center">
+&lt;img src="echostack_summary.png" alt="Echostack summary" style="width:1000px"/>
+&lt;b>Bat call activity detected in two UBNA sites in 2022.&lt;/b>
+&lt;/p>
+&lt;p>For more information, check out each of the code repositories:&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;a href="https://github.com/OSOceanAcoustics/echopype" target="_blank" rel="noopener">Echopype&lt;/a>: performs data standardization and computation from raw instrument files to acoustic data products
@@ -11,7 +18,7 @@
 &lt;li>
 &lt;a href="https://github.com/OSOceanAcoustics/echopop" target="_blank" rel="noopener">Echopop&lt;/a>: generates acoustically derived biological estimates, such as abundance
 &lt;ul>
-&lt;li>Learn more on
+&lt;li>Learn more on the
 &lt;a href="../../project_others/echopop/">Echopop project page&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
@@ -25,7 +32,7 @@
 &lt;p>These packages are accompanied by a set of data processing level definitions,
 &lt;a href="https://github.com/OSOceanAcoustics/echolevels" target="_blank" rel="noopener">Echolevels&lt;/a>, which categorizes data products at different workflow stages to enhance data understanding and provenance tracking.&lt;/p>
 &lt;p>Check out Wu-Jung&amp;rsquo;s talk at SciPy 2024 and the associated
-&lt;a href="https://doi.org/10.25080/WXRH8633" target="_blank" rel="noopener">proceeding paper&lt;/a>!
+&lt;a href="https://doi.org/10.25080/WXRH8633" target="_blank" rel="noopener">paper&lt;/a> in the proceedings!
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/YRFxMGisGww" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>

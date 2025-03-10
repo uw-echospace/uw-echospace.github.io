@@ -16,8 +16,15 @@
 &lt;a href="https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center" target="_blank" rel="noopener">Northwest Fisheries science center (NWFSC)&lt;/a>.&lt;/p>
 &lt;p>&lt;strong>Funding agency&lt;/strong>: NOAA Fisheries&lt;/p></description></item><item><title>Scalable, cloud-native processing of water column sonar data</title><link>https://uw-echospace.github.io/project_others/2021-cloud-workflows/</link><pubDate>Sun, 24 Oct 2021 16:56:36 -0800</pubDate><guid>https://uw-echospace.github.io/project_others/2021-cloud-workflows/</guid><description>&lt;p>Scientists commonly use active sonar systems to collect data about mid-trophic level animals like zooplankton and small fish, which play an important role in the marine ecosystems. Echosounders, or fish-finders, are high-frequency sonar systems that emit pulses of sound and record the reflections from animals, the seabed, and other objects. These instruments have been proven to be more efficient and effective for collecting data over a large survey area or a long time period than many other sampling methods, such as underwater imaging and net trawls. This technology has been widely adopted by the ocean science and commercial fishing communities and more recently has been integrated with autonomous vehicles, resulting in a massive amount of data. However, these datasets can be difficult to analyze and are often underutilized. We will address this issue by adopting and advancing data standards, developing a streamlined data processing workflow, and integrating open-source software tools that capitalize on recent advancements in cloud computing technologies to efficiently transform large quantities of ocean sonar data into information that is useful for exploring, monitoring, and managing living marine resources.&lt;/p>
 &lt;p>&lt;strong>Funding agency&lt;/strong>: NOAA Office of Ocean Exploration and Research
-&lt;a href="https://oceanexplorer.noaa.gov/news/oer-updates/2021/fy21-ffo-schedule.html" target="_blank" rel="noopener">FY2021 grants&lt;/a>&lt;/p></description></item><item><title>The open-source "Echostack" for scalable, cloud-native processing of water column sonar data</title><link>https://uw-echospace.github.io/project/echostack/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/project/echostack/</guid><description>&lt;p>Water column sonar data collected by echosounders are essential for fisheries and marine ecosystem research, enabling the detection, classification, and quantification of fish and zooplankton from many different ocean observing platforms. However, the broad usage of these data has been hindered by the lack of modular software tools that allow flexible composition of data processing workflows that incorporate powerful analytical tools in the scientific Python ecosystem. We address this gap by developing &lt;strong>Echostack&lt;/strong>, a suite of open-source Python software packages that leverage existing distributed computing and cloud-interfacing libraries to support intuitive and scalable data access, processing, and interpretation. These tools can be used individually or orchestrated together, which we demonstrate in example use cases for a fisheries acoustic-trawl survey.&lt;/p>
-&lt;p>Currently, the Echostack contains the following packages:&lt;/p>
+&lt;a href="https://oceanexplorer.noaa.gov/news/oer-updates/2021/fy21-ffo-schedule.html" target="_blank" rel="noopener">FY2021 grants&lt;/a>&lt;/p></description></item><item><title>The open-source "Echostack" for flexible and scalable echosounder data processing</title><link>https://uw-echospace.github.io/project/echostack/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/project/echostack/</guid><description>&lt;p>
+&lt;a href="https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f" target="_blank" rel="noopener">Water column sonar data collected by echosounders&lt;/a> are essential for fisheries and marine ecosystem research, enabling the detection, classification, and quantification of fish and zooplankton from many different ocean observing platforms. However, the broad usage of these data has been hindered by the lack of modular software tools that allow flexible composition of data processing workflows that incorporate powerful analytical tools in the scientific Python ecosystem.&lt;/p>
+&lt;p>We address this gap by developing &lt;strong>Echostack&lt;/strong>, a suite of open-source Python software packages that leverage existing distributed computing and cloud-interfacing libraries to support intuitive and scalable data access, processing, and interpretation. These tools can be used individually or orchestrated together, which we demonstrate in example use cases for a fisheries acoustic-trawl survey.&lt;/p>
+&lt;p>Below is a summary of the Echostack package:&lt;/p>
+&lt;p align="center">
+&lt;img src="echostack_summary.png" alt="Echostack summary" style="width:1000px"/>
+&lt;b>Bat call activity detected in two UBNA sites in 2022.&lt;/b>
+&lt;/p>
+&lt;p>For more information, check out each of the code repositories:&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;a href="https://github.com/OSOceanAcoustics/echopype" target="_blank" rel="noopener">Echopype&lt;/a>: performs data standardization and computation from raw instrument files to acoustic data products
@@ -29,7 +36,7 @@
 &lt;li>
 &lt;a href="https://github.com/OSOceanAcoustics/echopop" target="_blank" rel="noopener">Echopop&lt;/a>: generates acoustically derived biological estimates, such as abundance
 &lt;ul>
-&lt;li>Learn more on
+&lt;li>Learn more on the
 &lt;a href="../../project_others/echopop/">Echopop project page&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
@@ -43,7 +50,7 @@
 &lt;p>These packages are accompanied by a set of data processing level definitions,
 &lt;a href="https://github.com/OSOceanAcoustics/echolevels" target="_blank" rel="noopener">Echolevels&lt;/a>, which categorizes data products at different workflow stages to enhance data understanding and provenance tracking.&lt;/p>
 &lt;p>Check out Wu-Jung&amp;rsquo;s talk at SciPy 2024 and the associated
-&lt;a href="https://doi.org/10.25080/WXRH8633" target="_blank" rel="noopener">proceeding paper&lt;/a>!
+&lt;a href="https://doi.org/10.25080/WXRH8633" target="_blank" rel="noopener">paper&lt;/a> in the proceedings!
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/YRFxMGisGww" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>

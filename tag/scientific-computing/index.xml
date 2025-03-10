@@ -1,41 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>scientific computing | Echospace @ UW</title><link>https://uw-echospace.github.io/tag/scientific-computing/</link><atom:link href="https://uw-echospace.github.io/tag/scientific-computing/index.xml" rel="self" type="application/rss+xml"/><description>scientific computing</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://uw-echospace.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_2.png</url><title>scientific computing</title><link>https://uw-echospace.github.io/tag/scientific-computing/</link></image><item><title>The open-source "Echostack" for scalable, cloud-native processing of water column sonar data</title><link>https://uw-echospace.github.io/project/echostack/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/project/echostack/</guid><description>&lt;p>Water column sonar data collected by echosounders are essential for fisheries and marine ecosystem research, enabling the detection, classification, and quantification of fish and zooplankton from many different ocean observing platforms. However, the broad usage of these data has been hindered by the lack of modular software tools that allow flexible composition of data processing workflows that incorporate powerful analytical tools in the scientific Python ecosystem. We address this gap by developing &lt;strong>Echostack&lt;/strong>, a suite of open-source Python software packages that leverage existing distributed computing and cloud-interfacing libraries to support intuitive and scalable data access, processing, and interpretation. These tools can be used individually or orchestrated together, which we demonstrate in example use cases for a fisheries acoustic-trawl survey.&lt;/p>
-&lt;p>Currently, the Echostack contains the following packages:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;a href="https://github.com/OSOceanAcoustics/echopype" target="_blank" rel="noopener">Echopype&lt;/a>: performs data standardization and computation from raw instrument files to acoustic data products
-&lt;ul>
-&lt;li>Check out the
-&lt;a href="https://doi.org/10.1093/icesjms/fsae133" target="_blank" rel="noopener">Echopype paper in ICES Journal of Marine Science&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;a href="https://github.com/OSOceanAcoustics/echopop" target="_blank" rel="noopener">Echopop&lt;/a>: generates acoustically derived biological estimates, such as abundance
-&lt;ul>
-&lt;li>Learn more on
-&lt;a href="../../project_others/echopop/">Echopop project page&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;a href="https://github.com/OSOceanAcoustics/echoshader" target="_blank" rel="noopener">Echoshader&lt;/a>: enables interactive acoustic data visualization and exploration&lt;/li>
-&lt;li>
-&lt;a href="https://github.com/OSOceanAcoustics/echoregions" target="_blank" rel="noopener">Echoregions&lt;/a>: interfaces acoustic data with machine learning developments&lt;/li>
-&lt;li>
-&lt;a href="https://github.com/OSOceanAcoustics/echodataflow" target="_blank" rel="noopener">Echodataflow&lt;/a>: workflow orchestration via text-based configuration “recipes” instead of code&lt;/li>
-&lt;/ul>
-&lt;p>These packages are accompanied by a set of data processing level definitions,
-&lt;a href="https://github.com/OSOceanAcoustics/echolevels" target="_blank" rel="noopener">Echolevels&lt;/a>, which categorizes data products at different workflow stages to enhance data understanding and provenance tracking.&lt;/p>
-&lt;p>Check out Wu-Jung&amp;rsquo;s talk at SciPy 2024 and the associated
-&lt;a href="https://doi.org/10.25080/WXRH8633" target="_blank" rel="noopener">proceeding paper&lt;/a>!
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/YRFxMGisGww" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;/p>
-&lt;p>&lt;strong>Funding&lt;/strong>:&lt;/p>
-&lt;ul>
-&lt;li>NOAA Fisheries&lt;/li>
-&lt;li>NOAA Office of Ocean Exploration and Research
-&lt;a href="https://oceanexplorer.noaa.gov/news/oer-updates/2021/fy21-ffo-schedule.html" target="_blank" rel="noopener">FY2021 grants&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Echopop: biomass estimation for Pacific Hake</title><link>https://uw-echospace.github.io/project_others/echopop/</link><pubDate>Tue, 25 Jan 2022 17:02:36 -0800</pubDate><guid>https://uw-echospace.github.io/project_others/echopop/</guid><description>&lt;p>Echopop is a software used for processing backscatter measurements and biological data collected from acoustic-trawl surveys to estimate population estimates and other metrics. The development of this software has been primarily focused on surveys targeting Pacific hake (&lt;strong>see below information for more details&lt;/strong>), but the goal is to generalize the software in the future for broader fisheries community use.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>scientific computing | Echospace @ UW</title><link>https://uw-echospace.github.io/tag/scientific-computing/</link><atom:link href="https://uw-echospace.github.io/tag/scientific-computing/index.xml" rel="self" type="application/rss+xml"/><description>scientific computing</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://uw-echospace.github.io/images/icon_hu9a3e81eca2a83564e549c2cdc32b0637_27049_512x512_fill_lanczos_center_2.png</url><title>scientific computing</title><link>https://uw-echospace.github.io/tag/scientific-computing/</link></image><item><title>Echopop: biomass estimation for Pacific Hake</title><link>https://uw-echospace.github.io/project_others/echopop/</link><pubDate>Tue, 25 Jan 2022 17:02:36 -0800</pubDate><guid>https://uw-echospace.github.io/project_others/echopop/</guid><description>&lt;p>Echopop is a software used for processing backscatter measurements and biological data collected from acoustic-trawl surveys to estimate population estimates and other metrics. The development of this software has been primarily focused on surveys targeting Pacific hake (&lt;strong>see below information for more details&lt;/strong>), but the goal is to generalize the software in the future for broader fisheries community use.&lt;/p>
 &lt;p>The
 &lt;a href="https://www.fisheries.noaa.gov/west-coast/sustainable-fisheries/fisheries-engineering-and-acoustic-technologies-team" target="_blank" rel="noopener">Fisheries Engineering and Acoustics Technology (FEAT) team&lt;/a> at the NOAA Fisheries
 &lt;a href="https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center" target="_blank" rel="noopener">Northwest Fisheries Science Center (NWFSC)&lt;/a> collaborates with
