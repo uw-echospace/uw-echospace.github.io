@@ -19,36 +19,35 @@
 &lt;a href="https://oceanexplorer.noaa.gov/news/oer-updates/2021/fy21-ffo-schedule.html" target="_blank" rel="noopener">FY2021 grants&lt;/a>&lt;/p></description></item><item><title>The open-source "Echostack" for flexible and scalable echosounder data processing</title><link>https://uw-echospace.github.io/project/echostack/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate><guid>https://uw-echospace.github.io/project/echostack/</guid><description>&lt;p>
 &lt;a href="https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f" target="_blank" rel="noopener">Water column sonar data collected by echosounders&lt;/a> are essential for fisheries and marine ecosystem research, enabling the detection, classification, and quantification of fish and zooplankton from many different ocean observing platforms. However, the broad usage of these data has been hindered by the lack of modular software tools that allow flexible composition of data processing workflows that incorporate powerful analytical tools in the scientific Python ecosystem.&lt;/p>
 &lt;p>We address this gap by developing &lt;strong>Echostack&lt;/strong>, a suite of open-source Python software packages that leverage existing distributed computing and cloud-interfacing libraries to support intuitive and scalable data access, processing, and interpretation. These tools can be used individually or orchestrated together, which we demonstrate in example use cases for a fisheries acoustic-trawl survey.&lt;/p>
-&lt;p>Below is a summary of the Echostack package:&lt;/p>
+&lt;p>Below is a summary of the Echostack packages:&lt;/p>
 &lt;p align="center">
 &lt;img src="echostack_summary.png" alt="Echostack summary" style="width:1000px"/>
-&lt;b>Bat call activity detected in two UBNA sites in 2022.&lt;/b>
 &lt;/p>
-&lt;p>For more information, check out each of the code repositories:&lt;/p>
+&lt;p>For more information, check out the code repositories below:&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;a href="https://github.com/OSOceanAcoustics/echopype" target="_blank" rel="noopener">Echopype&lt;/a>: performs data standardization and computation from raw instrument files to acoustic data products
+&lt;a href="https://github.com/OSOceanAcoustics/echopype" target="_blank" rel="noopener">Echopype&lt;/a>
 &lt;ul>
-&lt;li>Check out the
-&lt;a href="https://doi.org/10.1093/icesjms/fsae133" target="_blank" rel="noopener">Echopype paper in ICES Journal of Marine Science&lt;/a>&lt;/li>
+&lt;li>Check out the our
+&lt;a href="https://doi.org/10.1093/icesjms/fsae133" target="_blank" rel="noopener">Echopype paper&lt;/a> in the ICES Journal of Marine Science&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
-&lt;a href="https://github.com/OSOceanAcoustics/echopop" target="_blank" rel="noopener">Echopop&lt;/a>: generates acoustically derived biological estimates, such as abundance
+&lt;a href="https://github.com/OSOceanAcoustics/echopop" target="_blank" rel="noopener">Echopop&lt;/a>
 &lt;ul>
 &lt;li>Learn more on the
 &lt;a href="../../project_others/echopop/">Echopop project page&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
-&lt;a href="https://github.com/OSOceanAcoustics/echoshader" target="_blank" rel="noopener">Echoshader&lt;/a>: enables interactive acoustic data visualization and exploration&lt;/li>
+&lt;a href="https://github.com/OSOceanAcoustics/echoshader" target="_blank" rel="noopener">Echoshader&lt;/a>&lt;/li>
 &lt;li>
-&lt;a href="https://github.com/OSOceanAcoustics/echoregions" target="_blank" rel="noopener">Echoregions&lt;/a>: interfaces acoustic data with machine learning developments&lt;/li>
+&lt;a href="https://github.com/OSOceanAcoustics/echoregions" target="_blank" rel="noopener">Echoregions&lt;/a>&lt;/li>
 &lt;li>
-&lt;a href="https://github.com/OSOceanAcoustics/echodataflow" target="_blank" rel="noopener">Echodataflow&lt;/a>: workflow orchestration via text-based configuration “recipes” instead of code&lt;/li>
+&lt;a href="https://github.com/OSOceanAcoustics/echodataflow" target="_blank" rel="noopener">Echodataflow&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>These packages are accompanied by a set of data processing level definitions,
-&lt;a href="https://github.com/OSOceanAcoustics/echolevels" target="_blank" rel="noopener">Echolevels&lt;/a>, which categorizes data products at different workflow stages to enhance data understanding and provenance tracking.&lt;/p>
+&lt;p>These packages are accompanied by a set of
+&lt;a href="https://github.com/OSOceanAcoustics/echolevels" target="_blank" rel="noopener">Echolevels&lt;/a> that categorize data products at different workflow stages to enhance data understanding and provenance tracking.&lt;/p>
 &lt;p>Check out Wu-Jung&amp;rsquo;s talk at SciPy 2024 and the associated
 &lt;a href="https://doi.org/10.25080/WXRH8633" target="_blank" rel="noopener">paper&lt;/a> in the proceedings!
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
