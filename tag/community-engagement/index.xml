@@ -23,7 +23,7 @@
 &lt;p>We have leveraged this dataset to investigate the
 &lt;a href="https://uw-echospace.github.io/talk/202405-aditya-duty-cycle/">impact of duty cycle recording on bat monitoring&lt;/a> and support multiple capstone projects in the
 &lt;a href="https://www.washington.edu/datasciencemasters/" target="_blank" rel="noopener">UW Data Sciene Master&amp;rsquo;s Program&lt;/a>, focused on developing open-source, cloud-hosted workflows for analyzing large PAM datasets. With these tools in place, going forward we plan to characterize the seasonal soundscape fluctuations in UBNA with respect to weather/climate events, and find opportunities to expand this effort to a community monitoring program in the Greater Seattle area.&lt;/p>
-&lt;p align="center">
+&lt;p>
 &lt;img src="featured.png" alt="UBNA bat activity grid" style="width:600px"/>
 &lt;b>Bat call activity detected in two UBNA sites in 2022.&lt;/b>
 &lt;/p>
@@ -34,7 +34,7 @@
 &lt;a href="https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f" target="_blank" rel="noopener">Water column sonar data collected by echosounders&lt;/a> are essential for fisheries and marine ecosystem research, enabling the detection, classification, and quantification of fish and zooplankton from many different ocean observing platforms. However, the broad usage of these data has been hindered by the lack of modular software tools that allow flexible composition of data processing workflows that incorporate powerful analytical tools in the scientific Python ecosystem.&lt;/p>
 &lt;p>We address this gap by developing &lt;strong>Echostack&lt;/strong>, a suite of open-source Python software packages that leverage existing distributed computing and cloud-interfacing libraries to support intuitive and scalable data access, processing, and interpretation. These tools can be used individually or orchestrated together, which we demonstrate in example use cases for a fisheries acoustic-trawl survey.&lt;/p>
 &lt;p>Below is a summary of the Echostack packages:&lt;/p>
-&lt;p align="center">
+&lt;p>
 &lt;img src="echostack_summary.png" alt="Echostack summary" style="width:1000px"/>
 &lt;/p>
 &lt;p>For more information, check out the code repositories below:&lt;/p>

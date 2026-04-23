@@ -6,7 +6,7 @@
 &lt;p>We have leveraged this dataset to investigate the
 &lt;a href="https://uw-echospace.github.io/talk/202405-aditya-duty-cycle/">impact of duty cycle recording on bat monitoring&lt;/a> and support multiple capstone projects in the
 &lt;a href="https://www.washington.edu/datasciencemasters/" target="_blank" rel="noopener">UW Data Sciene Master&amp;rsquo;s Program&lt;/a>, focused on developing open-source, cloud-hosted workflows for analyzing large PAM datasets. With these tools in place, going forward we plan to characterize the seasonal soundscape fluctuations in UBNA with respect to weather/climate events, and find opportunities to expand this effort to a community monitoring program in the Greater Seattle area.&lt;/p>
-&lt;p align="center">
+&lt;p>
 &lt;img src="featured.png" alt="UBNA bat activity grid" style="width:600px"/>
 &lt;b>Bat call activity detected in two UBNA sites in 2022.&lt;/b>
 &lt;/p>
